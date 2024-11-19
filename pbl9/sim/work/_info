@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/atrop/OneDrive/Documents/school/fall 23/ic design/modelsim/homework/pbl5/sim
+vand_or_register
+Z1 !s110 1698285114
+!i10b 1
+!s100 gI>VKiA2MW8jcDI4ZNZjH2
+IShWH@7iBlM]GkYX2b<5ZR0
+R0
+w1698284295
+8../dut/and_or_register.v
+F../dut/and_or_register.v
+!i122 11
+L0 1 23
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1698285114.000000
+Z5 !s107 ../tb/and_or_register_tb.v|
+Z6 !s90 -reportprogress|300|-v|../dut/and_or_register.v|../tb/and_or_register_tb.v|
+!i113 1
+Z7 !s92 -v ../dut/and_or_register.v
+Z8 tCvgOpt 0
+vand_or_register_tb
+R1
+!i10b 1
+!s100 GB<@deMf[2aD;?SE9B=_61
+IgPcB6T@V9@@X?TaWFhZ7Y3
+R0
+w1698284677
+8../tb/and_or_register_tb.v
+F../tb/and_or_register_tb.v
+!i122 11
+Z9 L0 1 42
+R2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vcomb_and_or
+Z10 !s110 1698885465
+!i10b 1
+!s100 `C@=U9oc3kg4^5KWEL8cV3
+ImVk4Z`8MQ<EaLhPXl8;c:0
+Z11 dC:/Users/atrop/OneDrive/Documents/school/fall 23/ic design/modelsim/homework/pbl9/sim
+w1698285643
+8../dut/comb_and_or.v
+F../dut/comb_and_or.v
+!i122 27
+L0 1 11
+R2
+R3
+r1
+!s85 0
+31
+Z12 !s108 1698885465.000000
+!s107 ../tb/seq_inst_and_or_tb.v|../dut/comb_and_or.v|
+Z13 !s90 -reportprogress|300|-v|../dut/seq_inst_and_or.v|../dut/comb_and_or.v|../tb/seq_inst_and_or_tb.v|
+!i113 1
+Z14 !s92 -v ../dut/seq_inst_and_or.v
+R8
+vseq_inst_and_or
+R10
+!i10b 1
+!s100 I=4nBMBQPAh^ZJYU[L1?X1
+I96W>OA7GA]7BIUm5KWb6I2
+R11
+w1698619948
+8../dut/seq_inst_and_or.v
+F../dut/seq_inst_and_or.v
+!i122 27
+R9
+R2
+R3
+r1
+!s85 0
+31
+R12
+Z15 !s107 ../tb/seq_inst_and_or_tb.v|../dut/comb_and_or.v|
+R13
+!i113 1
+R14
+R8
+vseq_inst_and_or_tb
+R10
+!i10b 1
+!s100 YU_KXLWThaDnSO144BmOl1
+IaK703Tznz_G]3nkHJhnO40
+R11
+w1698783915
+8../tb/seq_inst_and_or_tb.v
+F../tb/seq_inst_and_or_tb.v
+!i122 27
+L0 1 58
+R2
+R3
+r1
+!s85 0
+31
+R12
+R15
+R13
+!i113 1
+R14
+R8
